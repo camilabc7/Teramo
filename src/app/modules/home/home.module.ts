@@ -3,8 +3,8 @@ import { CommonModule } from '@angular/common';
 
 import { HomeRoutingModule } from './home-routing.module';
 import { HomePageComponent } from './home-page.component';
-import { ServicesSectionComponent } from 'src/app/services-section/services-section.component';
-import { ReviewsComponent } from 'src/app/reviews/reviews.component';
+import { ServicesSectionComponent } from 'src/app/components/services-section/services-section.component';
+import { ReviewsComponent } from 'src/app/components/reviews/reviews.component';
 
 
 @NgModule({
