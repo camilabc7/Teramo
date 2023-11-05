@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(255,255,255,0.3)), url("../assets/results/t1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(255,255,255,0.3)), url("/assets/canv/ter11.jpg");
   background-position: 50% 50%;
   min-height: 698px;
 }
@@ -416,7 +416,6 @@
   }
 } .u-section-4 {
   background-image: none;
-  min-height: 519px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
@@ -428,7 +427,7 @@
 .u-section-4 .u-image-1 {
   min-height: 518px;
   pointer-events: auto;
-  background-image: url("../assets/results/t10.jpg");
+  background-image: url("/assets/results/t10.jpg");
   background-position: 50% 50%;
 }
 
@@ -555,7 +554,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 276px;
-  background-image: url("../assets/TERAMO-PressureWashing-05-min.png");
+  background-image: url("/assets/results/t1.jpg");
   background-position: 50% 50%;
 }
 
@@ -599,7 +598,7 @@
 
 .u-section-5 .u-image-2 {
   min-height: 347px;
-  background-image: url("../assets/results/t10.jpg");
+  background-image: url("/assets/results/t10.jpg");
   background-position: 50% 50%;
 }
 
@@ -817,7 +816,7 @@
 .u-section-6 .u-image-1 {
   height: 181px;
   width: 181px;
-  background-image: url("../assets/results/t10.jpg");
+  background-image: url("/assets/results/t10.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -861,7 +860,7 @@
 .u-section-6 .u-image-2 {
   height: 181px;
   width: 181px;
-  background-image: url("../assets/results/t13.jpg");
+  background-image: url("/assets/results/t13.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -905,7 +904,7 @@
 .u-section-6 .u-image-3 {
   height: 181px;
   width: 181px;
-  background-image: url("../assets/results/t10.jpg");
+  background-image: url("/assets/results/t10.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -949,7 +948,7 @@
 .u-section-6 .u-image-4 {
   height: 181px;
   width: 181px;
-  background-image: url("../assets/results/t10.jpg");
+  background-image: url("/assets/results/t10.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 50px;
   --animation-custom_in-translate_y: 0px;
@@ -1113,7 +1112,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("../assets/TERAMO-PressureWashing-06-min.png");
+  background-image: url("/assets/results/t1.jpg");
   background-position: 50% 50%;
 }
 
@@ -3002,7 +3001,7 @@
   stroke: transparent !important;
   border-color: transparent !important;
 } .u-section-11 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../assets/results/t1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/assets/results/t1.jpg");
   background-position: 50% 50%;
 }
 
@@ -3104,7 +3103,7 @@
     margin-bottom: 58px;
   }
 } .u-section-12 {
-  background-image: linear-gradient(0deg, rgba(179,179,179,0.5), rgba(179,179,179,0.5)), url("../assets/results/t10.jpg");
+  background-image: linear-gradient(0deg, rgba(179,179,179,0.5), rgba(179,179,179,0.5)), url("/assets/results/t10.jpg");
   background-position: 50% 50%;
 }
 
@@ -3170,7 +3169,7 @@
 
 .u-section-13 .u-image-1 {
   min-height: 758px;
-  background-image: url("../assets/results/t5.jpg");
+  background-image: url("/assets/results/t5.jpg");
   background-position: 50% 50%;
 }
 
@@ -3180,7 +3179,7 @@
 
 .u-section-13 .u-image-2 {
   min-height: 379px;
-  background-image: url("../assets/TERAMO-PressureWashing-01.png");
+  background-image: url("/assets/results/t1.jpg");
   background-position: 50% 50%;
 }
 
@@ -3353,7 +3352,7 @@
 
 .u-section-15-1 .u-image-1 {
   min-height: 501px;
-  background-image: url("../assets/results/t12.jpg");
+  background-image: url("/assets/results/t12.jpg");
   background-position: 50% 50%;
 }
 
@@ -3363,7 +3362,7 @@
 
 .u-section-15-1 .u-image-2 {
   min-height: 501px;
-  background-image: url("../assets/results/t1.jpg");
+  background-image: url("/assets/results/t1.jpg");
   background-position: 50% 50%;
 }
 
@@ -3453,7 +3452,7 @@
 
 .u-section-15-2 .u-image-1 {
   min-height: 501px;
-  background-image: url("../assets/results/t5.jpg");
+  background-image: url("/assets/results/t5.jpg");
   background-position: 50% 50%;
 }
 
@@ -3463,7 +3462,7 @@
 
 .u-section-15-2 .u-image-2 {
   min-height: 501px;
-  background-image: url("../assets/results/t6.jpg");
+  background-image: url("/assets/results/t6.jpg");
   background-position: 50% 50%;
 }
 
@@ -3557,7 +3556,7 @@
 
 .u-section-15-3 .u-image-1 {
   min-height: 479px;
-  background-image: url("../assets/results/t3.jpg");
+  background-image: url("/assets/results/t3.jpg");
   background-position: 50% 50%;
 }
 
@@ -3567,7 +3566,7 @@
 
 .u-section-15-3 .u-image-2 {
   min-height: 479px;
-  background-image: url("../assets/results/t4.jpg");
+  background-image: url("/assets/results/t4.jpg");
   background-position: 50% 50%;
 }
 
@@ -3660,7 +3659,7 @@
 
 .u-section-15-4 .u-image-1 {
   min-height: 507px;
-  background-image: url("../assets/results/t9.jpg");
+  background-image: url("/assets/results/t9.jpg");
   background-position: 50% 50%;
 }
 
@@ -3670,7 +3669,7 @@
 
 .u-section-15-4 .u-image-2 {
   min-height: 507px;
-  background-image: url("../assets/results/t10.jpg");
+  background-image: url("/assets/results/t10.jpg");
   background-position: 50% 50%;
 }
 
@@ -4269,7 +4268,7 @@ span.fr-img-caption.fr-view {
       float: right;
       margin: 5px 0 5px 5px;
       max-width: calc(100% - 5px); }
-/*end-commonstyles library*/@charset "UTF-8";
+/*end-commonstyles library*/
 .u-hidden-block {
   visibility: hidden!important;
 }
@@ -18684,7 +18683,7 @@ div.u-video,
 }
 .u-player-progress {
   display: flex;
-  postion: relative;
+  position: relative;
   height: 4px;
   border-radius: 25px;
   margin: 0 5px;
