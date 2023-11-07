@@ -8,7 +8,8 @@ import { ContactRoutingModule } from './contact-routing.module';
   declarations: [],
   imports: [
     CommonModule,
-    ContactRoutingModule
+    ContactRoutingModule,
+
   ]
 })
 export class ContactModule { }

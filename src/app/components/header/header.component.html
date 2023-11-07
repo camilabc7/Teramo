@@ -18,11 +18,13 @@
           title="Home"
         >
           <img
-            src="../../assets/canv/logo.png"
+            [ngSrc]="'../../assets/canv/logo.png'"
+            style="position: relative;"
+            fill
             class="u-logo-image u-logo-image-1"
           /> </a
         ><span class="u-file-icon u-icon u-text-palette-2-base u-icon-1"
-          ><img src="../../assets/icons/location.png" alt=""
+          ><img [ngSrc]="'../../assets/icons/location.png'" alt="" fill style="position: relative;"
         /></span>
         <p class="u-text u-text-default u-text-1">
           Serving Orlando, FL &amp; Surrounding Areas<a

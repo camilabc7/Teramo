@@ -13,7 +13,7 @@ import { ReviewsComponent } from 'src/app/components/reviews/reviews.component';
   imports: [
     CommonModule,
     AboutRoutingModule,
-    ReviewsComponent
+    ReviewsComponent,
   ]
 })
 export class AboutModule { }

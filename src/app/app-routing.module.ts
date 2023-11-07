@@ -8,19 +8,22 @@ const routes: Routes = [
   },
   {
     path: 'contact-us',
-    loadChildren: () => import('../app/modules/contact/contact.module').then(m => m.ContactModule)
+    loadChildren: () => import('../app/modules/contact/contact.module').then(m => m.ContactModule),
+    title: 'Contact Us'
   },
   {
     path: 'services',
-    loadChildren: () => import('../app/modules/service/service.module').then(m => m.ServiceModule)
+    loadChildren: () => import('../app/modules/service/service.module').then(m => m.ServiceModule),
+    title: 'Services'
   },
   {
     path: 'home',
-    loadChildren: () => import('../app/modules/home/home.module').then(m => m.HomeModule)
+    loadChildren: () => import('../app/modules/home/home.module').then(m => m.HomeModule),
   },
   {
     path: 'about-us',
-    loadChildren: () => import('../app/modules/about/about.module').then(m => m.AboutModule)
+    loadChildren: () => import('../app/modules/about/about.module').then(m => m.AboutModule),
+    title: 'About Us'
   },
 ];
 

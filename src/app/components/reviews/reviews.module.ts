@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { NgOptimizedImage } from '@angular/common';
 import { ReviewsComponent } from './reviews.component';
 
 
@@ -9,7 +10,8 @@ import { ReviewsComponent } from './reviews.component';
   ],
   imports: [
     CommonModule,
-    ReviewsComponent
+    ReviewsComponent,
+    NgOptimizedImage
   ],
   exports:[
     ReviewsComponent,

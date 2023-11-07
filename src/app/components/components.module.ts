@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { CommonModule, NgOptimizedImage } from '@angular/common';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContactUsSectionComponent } from './contact-us-section/contact-us-section.component';
@@ -13,7 +13,8 @@ import { ContactUsSectionComponent } from './contact-us-section/contact-us-secti
   ],
   imports: [
     CommonModule,
-    ContactUsSectionComponent
+    ContactUsSectionComponent,
+    NgOptimizedImage
   ],
   exports:[
     HeaderComponent,
