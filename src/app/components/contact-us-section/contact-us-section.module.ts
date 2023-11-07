@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { NgOptimizedImage } from '@angular/common';
 import { ContactUsSectionComponent } from './contact-us-section.component';
 
 
@@ -9,7 +10,8 @@ import { ContactUsSectionComponent } from './contact-us-section.component';
   ],
   imports: [
     CommonModule,
-    ContactUsSectionComponent
+    ContactUsSectionComponent,
+    NgOptimizedImage
   ],
   exports:[
     ContactUsSectionComponent,
