@@ -1212,10 +1212,6 @@ z-index: 1;
     min-height: 568px;
   }
 
-  .u-section-7 .u-layout-wrap-1 {
-    width: calc(((100% - 940px) / 2) + 940px);
-  }
-
   .u-section-7 .u-image-1 {
     min-height: 568px;
   }
@@ -1235,7 +1231,6 @@ z-index: 1;
   }
 
   .u-section-7 .u-layout-wrap-1 {
-    width: calc(((100% - 720px) / 2) + 720px);
     margin-top: 1px;
     margin-bottom: 1px;
   }
@@ -1293,9 +1288,7 @@ z-index: 1;
     min-height: 336px;
   }
 
-  .u-section-7 .u-layout-wrap-1 {
-    width: calc(((100% - 540px) / 2) + 540px);
-  }
+
 
   .u-section-7 .u-image-1 {
     min-height: 512px;
